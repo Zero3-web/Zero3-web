@@ -1,25 +1,20 @@
-# 💖 Portafolio - Sorpresas para Novios  
+💻 Portafolio de Proyectos
+🌟 Un espacio donde muestro mis proyectos y habilidades como desarrollador web.
 
-🌟 Un espacio donde diseño experiencias digitales únicas para enamorar.  
+🚀 Tecnologías
+🔹 HTML5 & CSS3 → Diseño limpio, estructurado y responsivo.
+🔹 JavaScript (ES6+) → Dinámicas interactivas y funcionalidades avanzadas.
+🔹 React.js → Desarrollo de interfaces de usuario interactivas y modulares.
+🔹 Node.js → Backend robusto y eficiente para aplicaciones web.
+🔹 MongoDB → Base de datos NoSQL flexible y escalable.
+🔹 Bootstrap & Tailwind CSS → Frameworks de diseño para interfaces modernas y responsivas.
 
-## 🚀 Tecnologías  
-🔹 **HTML5 & CSS3** → Diseño moderno y responsivo.  
-🔹 **JavaScript (ES6+)** → Interactividad avanzada.  
-🔹 **Swiper.js** → Carrusel dinámico.  
-🔹 **ScrollReveal.js & Rellax.js** → Animaciones y efectos Parallax.  
-🔹 **Lightbox.js & Google Maps API** → Galería interactiva y ubicación.  
+✨ Funcionalidades
+✅ Modo Claro/Oscuro 🌗 → Elige tu estilo preferido para navegar el portafolio.
+✅ Filtros Dinámicos de Proyectos 🎨 → Filtra proyectos por categorías o tecnologías.
+✅ Detalles de Proyecto Interactivos 📝 → Explora cada proyecto con información adicional y enlaces.
+✅ Animaciones Suaves 🎞 → Transiciones y efectos interactivos para una experiencia visual agradable.
+✅ Enlaces a Repositorios y Live Demo 🌐 → Accede directamente al código fuente y la versión en vivo de cada proyecto.
 
-## ✨ Funcionalidades  
-✅ **Modo Claro/Oscuro** 🌗  
-✅ **Filtros dinámicos de proyectos** 🎨  
-✅ **Testimonios interactivos** 📝  
-✅ **Música de fondo** 🎵  
-✅ **Compartir en redes sociales** 📲  
-
-## 📸 Capturas  
-📷 *Pronto agregaré imágenes del proyecto en acción.*  
-
-## 🔧 Instalación  
-1️⃣ **Clonar el repo**  
-   ```bash
-   git clone https://github.com/tu-usuario/portafolio-novios.git
+📸 Capturas
+📷 Pronto se agregarán capturas de pantalla de los proyectos en acción.
