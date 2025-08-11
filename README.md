@@ -1,5 +1,3 @@
-# 🎨 Portafolio de Proyectos - Zero3
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Desarrollador+Web;Creando+experiencias+digitales;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
@@ -20,7 +18,7 @@
 
 ## 👋 Sobre Mí
 
-Soy un **Desarrollador Web** apasionado por crear experiencias digitales únicas. Me enfoco en combinar **creatividad**, **buenas prácticas** y **tecnologías modernas** para construir proyectos que marquen la diferencia.
+Soy un **Desarrollador** apasionado por crear experiencias digitales únicas. Me enfoco en combinar **creatividad**, **buenas prácticas** y **tecnologías modernas** para construir proyectos que marquen la diferencia.
 
 ```javascript
 const desarrollador = {
@@ -107,8 +105,16 @@ const desarrollador = {
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero3-web&repo=proyecto1&theme=radical&hide_border=true&bg_color=0d1117" alt="Proyecto 1" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero3-web&repo=proyecto2&theme=radical&hide_border=true&bg_color=0d1117" alt="Proyecto 2" /></a>
+  <a href="https://www.zerotech.shop/detalle/arbol" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero3-web&repo=proyecto1&theme=radical&hide_border=true&bg_color=0d1117" alt="Proyecto Árbol" />
+    <br>
+    <strong>Ver Proyecto Árbol</strong>
+  </a>
+  <a href="https://www.zerotech.shop/detalle/flor" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero3-web&repo=proyecto2&theme=radical&hide_border=true&bg_color=0d1117" alt="Proyecto Flor" />
+    <br>
+    <strong>Ver Proyecto Flor</strong>
+  </a>
 </div>
 
 ---
