@@ -16,8 +16,3 @@ React.js	Python (en proceso)	Figma (para UI/UX)
 🔹 Animaciones Suaves: Transiciones y efectos para una experiencia fluida.
 🔹 Capturas de Pantalla y Videos: (¡Pronto disponibles!) Para mostrar los proyectos en acción.
 🔹 Diseño Responsivo: Adaptado para verse bien en cualquier dispositivo.
-
-🌐 Enlaces Rápidos
-🔗 Ver Portafolio Web (si tienes link)
-📁 Repositorio Principal del Portafolio
-📬 Contáctame
