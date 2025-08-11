@@ -25,8 +25,8 @@ Soy un **Desarrollador Web** apasionado por crear experiencias digitales únicas
 ```javascript
 const desarrollador = {
     nombre: "Zero3",
-    ubicacion: "España",
-    especialidad: "Frontend Development",
+    ubicacion: "Peru",
+    especialidad: "Ingeneria de Software",
     estado: "Siempre aprendiendo 🚀",
     objetivo: "Crear experiencias web increíbles"
 };
