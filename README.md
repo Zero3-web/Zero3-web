@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Desarrollador+Web;Creando+experiencias+digitales;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
@@ -105,16 +106,20 @@ const desarrollador = {
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://www.zerotech.shop/detalle/arbol" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero3-web&repo=proyecto1&theme=radical&hide_border=true&bg_color=0d1117" alt="Proyecto Árbol" />
-    <br>
-    <strong>Ver Proyecto Árbol</strong>
-  </a>
-  <a href="https://www.zerotech.shop/detalle/flor" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero3-web&repo=proyecto2&theme=radical&hide_border=true&bg_color=0d1117" alt="Proyecto Flor" />
-    <br>
-    <strong>Ver Proyecto Flor</strong>
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="45%" style="vertical-align:top;">
+        <h3>🌳 Árbol</h3>
+        <p>Proyecto visual sobre árbol de amor. <br><b>Stack:</b> Html, Css , JS</p>
+        <a href="https://www.zerotech.shop/detalle/arbol" target="_blank"><strong>🔗 Ver Proyecto Árbol</strong></a>
+      </td>
+      <td align="center" width="45%" style="vertical-align:top;">
+        <h3>🌸 Flor</h3>
+        <p>Proyecto visual sobre flor virtual. <br><b>Stack:</b> Html, Css , JS</p>
+        <a href="https://www.zerotech.shop/detalle/flor" target="_blank"><strong>🔗 Ver Proyecto Flor</strong></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
