@@ -19,7 +19,7 @@
 
 ## 👋 Sobre Mí
 
-Soy un **Desarrollador** apasionado por crear experiencias digitales únicas. Me enfoco en combinar **creatividad**, **buenas prácticas** y **tecnologías modernas** para construir proyectos que marquen la diferencia.
+Mi nombre es Benjamin,Soy un **Desarrollador** apasionado por crear experiencias digitales únicas. Me enfoco en combinar **creatividad**, **buenas prácticas** y **tecnologías modernas** para construir proyectos que marquen la diferencia.
 
 ```javascript
 const desarrollador = {
